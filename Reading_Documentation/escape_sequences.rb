@@ -7,7 +7,3 @@ puts "I can't handle these lies.."
 puts "WHAT \f IS \f A \f BELL????"
 puts "I'm fine, thanks \b for asking." 
 
-puts "xyz".upcase
-puts "Welcome to #{'xyz'.upcase} Corporation!"
-z = "xyz".upcase + "zyx".downcase
-puts z
