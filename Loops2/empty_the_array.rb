@@ -1,7 +1,8 @@
 names = ['Sally', 'Joe', 'Lisa', 'Henry']
-
-loop do |name| 
-    puts name
-    array.shift
+#names = names.reverse  #to reverse array order
+loop do    
+    puts names.shift
     break if names.empty?
 end
+
+#stuff
